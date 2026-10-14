@@ -1,0 +1,6 @@
+{
+  "name": "Poker Bankroll Tracker",
+  "description": "Offline poker tournament bankroll tracker, session manager, and analytics for Indian Rupees (INR) with Room database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
